@@ -40,6 +40,7 @@ form > button {
 .list {
   display: grid;
   width: 100%;
+  max-width: calc(240px * 5 + 4 * 30px -1px);
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 30px;
 }
