@@ -75,3 +75,5 @@ class Todo {
         this.DOM.innerHTML = HTML;
     }
 }
+
+export { Todo }

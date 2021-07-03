@@ -1,3 +1,4 @@
+
 import { Todo } from "./components/Todo.js";
 
-new Todo('barsukas_todas');
+new Todo('barsukas_todos');
